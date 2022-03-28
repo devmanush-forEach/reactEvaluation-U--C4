@@ -1,70 +1,59 @@
-# Getting Started with Create React App
+<h1>U-6 C-4 Evaluation</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<hr>
 
-## Available Scripts
+<h3>It is an indivisual assignment created in 3 hours. It is a single page web app created in react framework with redux state manager.
+Here user can see product images and about their information in a flexbox.</h3>
 
-In the project directory, you can run:
+<hr>
 
-### `npm start`
+<h2>Stack and Libraries Used</h2>
+<ul>
+  <li>HTML</li>
+  <li>Javascript</li>
+  <li>CSS</li>
+  <li>React</li>
+  <li>React router dom</li>
+  <li>Redux</li>
+  <li>React-Redux</li>
+  <li>Redux-thunk</li>
+</ul>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<br><br>
+<h3>Deployment Link</h3>
+<a href="https://lakme-clone-d613cd.netlify.app/">https://lakme-clone-d613cd.netlify.app/
+</a>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+<h2>Sneak Peeks</h2>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<p>Landing Page or Home page</p>
+<img src="./readmePics/homepage.png" alt="landing page">
 
-### `npm run build`
+<hr>
+<p>Loading section</p>
+<img src="./readmePics/trendingpage.png" alt="courses page">
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<hr>
+<p>Products Page</p>
+<img src="./readmePics/signuppage.png" alt="signup page">
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<hr>
+<p>About Page</p>
+<img src="./readmePics/cartpage.png" alt="teachers page">
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+<hr>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<h3>Nikhil Shakya</h3>
+<ul>
+  <li>Github:  <a href= "https://github.com/devmanush-forEach" >devmanush-forEach</a></li>
+  <li>Email:shakyanikhil12345@gmail.com </li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/nikhil-shakya-3a1939213/">https://www.linkedin.com/in/nikhil-shakya-3a1939213/ </a></li>
+</ul>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

@@ -21,7 +21,7 @@ Here user can see product images and about their information in a flexbox.</h3>
 
 <br><br>
 <h3>Deployment Link</h3>
-<a href="https://lakme-clone-d613cd.netlify.app/">https://lakme-clone-d613cd.netlify.app/
+<a href="https://react-evaluation-u6-c4.netlify.app/">https://react-evaluation-u6-c4.netlify.app/
 </a>
 
 

@@ -1,0 +1,40 @@
+.product-main-div{
+    margin: auto;
+    width: 90vw;
+    background-color: rgb(147, 153, 153);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2%;
+    position: relative;
+    top: 60px;
+}
+
+.product-link-tile{
+    width: 23%;
+    color: black;
+    text-decoration: none;
+    padding: 5px;
+}
+
+.sort-select{
+    height: 30px;
+    width: 150px;
+    position: fixed;
+    top: 10px;
+    right: 250px;
+    cursor: pointer;
+    background-color: cornsilk;
+    outline: none;
+    border: none;
+    z-index: 1000;
+}
+
+
+.loading-div{
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+    color: aqua;
+}

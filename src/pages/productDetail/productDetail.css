@@ -1,0 +1,20 @@
+.product-detail-page{
+    width: 80vw;
+    height: fit-content;
+    padding: 40px;
+    display: flex;
+    margin: auto;
+    justify-content: space-around;
+    position: relative;
+    top: 60px;
+}
+
+
+.item-detail-page-img{
+    width: 300px;
+    height: fit-content;
+}
+
+.item-detail-page-right{
+    text-align: left;
+}

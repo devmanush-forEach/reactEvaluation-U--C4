@@ -1,0 +1,15 @@
+.about-main-div{
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+    color: rgb(36, 0, 95);
+}
+
+.about-main-div p{
+    margin-top: 30px;
+}
+
+i{
+    color: teal;
+}

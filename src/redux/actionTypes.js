@@ -1,0 +1,8 @@
+export const DATALOADING = 'DATALOADING';
+export const LOADINGSUCCESS = 'LOADINGSUCCESS';
+export const LOADINGFAILED = 'LOADINGFAILED';
+
+
+export const GETDATA = 'GETDATA';
+
+export const SORTPRODUCTS = 'SORTPRODUCTS';

@@ -28,19 +28,19 @@ Here user can see product images and about their information in a flexbox.</h3>
 <h2>Sneak Peeks</h2>
 
 <p>Landing Page or Home page</p>
-<img src="./readmePics/homepage.png" alt="landing page">
+<img src="./readmePics/home.png" alt="landing page">
 
 <hr>
 <p>Loading section</p>
-<img src="./readmePics/trendingpage.png" alt="courses page">
+<img src="./readmePics/loading.png" alt="courses page">
 
 <hr>
 <p>Products Page</p>
-<img src="./readmePics/signuppage.png" alt="signup page">
+<img src="./readmePics/products.png" alt="signup page">
 
 <hr>
 <p>About Page</p>
-<img src="./readmePics/cartpage.png" alt="teachers page">
+<img src="./readmePics/about.png" alt="teachers page">
 
 
 <hr>
